@@ -1,6 +1,6 @@
-# Basic Sample Hardhat Project
+# Basic ERC721 Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project demonstrates a basic ERC721 Smart contract using Hardhat. It comes with a Vanar contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
 Try running some of the following tasks:
 
